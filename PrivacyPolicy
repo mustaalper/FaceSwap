@@ -1,49 +1,111 @@
-Privacy Policy
-This privacy policy applies to the Face Swap AI: Deep Art & Magic app (hereby referred to as “Application”) for mobile devices that was created by Mustafa Alper Aydın (hereby referred to as “Service Provider”) as a Free service. This service is intended for use “AS IS.”
+Last Updated: 23.12.2024
 
-Information Collection and Use
+1. FACE DATA PROCESSING AND PRIVACY
 
-The Application collects general information such as:
-	•	Device’s Internet Protocol address (e.g. IP address)
-	•	Pages visited within the Application
-	•	Time spent on pages
-	•	Device operating system
+1.1 Face Data Collection and Use
+	•	Only temporary facial feature points are collected for real-time face-swapping functionality.
+	•	All processing is performed locally on the user’s device.
+	•	Face data is used exclusively to enable face-swapping functionality.
+	•	No biometric data is collected or stored.
+	•	No facial recognition database is created or maintained.
 
-The Application does not collect precise location data or sensitive personal information.
+1.2 Face Data Storage and Retention
+	•	Face data exists only during active processing.
+	•	Face data is immediately deleted after the face-swapping process is completed.
+	•	No cloud storage or transmission of face data occurs.
+	•	No permanent storage of any face-related data is performed.
+	•	No backups of face data are created.
 
-Face Data Collection and Use
+1.3 Face Data Security
+	•	All processing occurs locally on the user’s device.
+	•	No face data is transmitted over networks.
+	•	No face data is shared with third parties.
+	•	Industry-standard encryption is applied to all operations.
+	•	Secure memory management is implemented during processing.
 
-The Application uses face data only for real-time processing to enable its face-swapping functionality.
-	•	Face data is processed locally on the user’s device.
-	•	Face data is not uploaded, stored, or shared with the Service Provider or any third party.
-	•	All face data is deleted immediately after the face-swapping process is completed.
+1.4 User Control Over Face Data
+	•	Face detection is optional and requires explicit user permission.
+	•	Users can disable face detection at any time.
+	•	Users maintain full control over their photos.
+	•	Clear opt-out options are provided.
 
-Third-Party Access
+2. GENERAL INFORMATION COLLECTION
 
-The Application may use third-party tools for analytics or ad services, such as Adapty.
-	•	These third-party services are bound by their own privacy policies.
-	•	No face data is shared with these services.
+2.1 User-Provided Information
+	•	Photos uploaded for face-swapping (temporary, local processing only).
+	•	App preferences and settings.
+	•	Premium subscription details (if purchased).
+	•	Device permissions granted.
 
-Data Retention Policy
+2.2 Automatically Collected Information
+	•	Device information (model, OS version).
+	•	App usage statistics.
+	•	Crash reports.
+	•	Performance metrics.
 
-The Service Provider retains general usage data (e.g., app usage analytics) for as long as required to improve the Application’s performance. Face data is not retained by the Application or the Service Provider.
+3. HOW WE USE INFORMATION
 
-Children’s Privacy
+We use the collected information to:
+	•	Provide face-swapping functionality.
+	•	Improve app performance and features.
+	•	Process payments for premium features.
+	•	Provide customer support.
+	•	Send important updates and notifications.
+	•	Maintain app security.
 
-The Application does not knowingly collect or use data from children under the age of 13. If you believe your child has shared personal data with us, please contact us at mustaalper@gmail.com.
+4. THIRD-PARTY SERVICES
 
-Security
+We work with the following third-party services:
+	•	Adapty: Payment processing.
+	•	Apple: App Store services.
 
-The Service Provider ensures that all collected data is securely processed using industry-standard practices.
+Important Note: None of these services receive any face data or processed photos.
 
-Changes
+5. DATA SECURITY
 
-This Privacy Policy may be updated periodically. Users will be notified of any significant changes through this page.
+We implement the following security measures:
+	•	Industry-standard encryption methods.
+	•	Secure local data processing.
+	•	Regular security updates.
+	•	Best practices for data protection.
+	•	Strict access controls.
 
-Your Consent
+6. USER RIGHTS
 
-By using the Application, you consent to the privacy practices described above.
+Users can:
+	•	Control app permissions.
+	•	Opt-out of analytics.
+	•	Request data deletion.
+	•	Manage face-processing features.
+	•	Cancel premium subscriptions.
 
-Contact Us
+7. CHILDREN’S PRIVACY
+	•	The app is not intended for users under the age of 13.
+	•	We do not knowingly collect data from children under 13.
+	•	Special protections are applied to all facial processing.
+	•	Any inadvertently collected data is immediately deleted.
 
-If you have any questions about this Privacy Policy, contact us at: mustaalper@gmail.com
+8. DATA STORAGE
+
+8.1 Photos and Face Data
+	•	Temporary processing only.
+	•	Processed locally on the user’s device.
+	•	Immediately deleted after processing.
+	•	No cloud storage.
+	•	No data retention.
+
+8.2 Other Data
+	•	User preferences: Stored locally.
+	•	Payment information: Managed by Apple or RevenueCat.
+	•	Analytics data: Stored as non-personal aggregated data.
+
+9. CHANGES TO POLICY
+	•	Users will be notified of significant changes.
+	•	Updates will be posted in the app and on our website.
+	•	Major changes will be communicated via email.
+	•	30 days’ notice will be provided for material changes.
+
+10. CONTACT INFORMATION
+
+For privacy-related questions or concerns, please contact us at:
+	•	Email: mustaalper@gmail.com
