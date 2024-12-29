@@ -58,6 +58,8 @@ We use the collected information to:
 We work with the following third-party services:
 	•	Adapty: Payment processing.
 	•	Apple: App Store services.
+	•	Firebase: Analytics and crash reporting.
+
 
 Important Note: None of these services receive any face data or processed photos.
 
